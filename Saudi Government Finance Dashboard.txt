@@ -1,9 +1,0 @@
-Saudi Government Finance Dashboard
-
-✔ Built using Power BI
-✔ Official Saudi Government Finance Data
-✔ Revenue Analysis
-✔ Expenditure Analysis
-✔ Time Intelligence
-✔ Waterfall Chart
-
